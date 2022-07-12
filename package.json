@@ -1,6 +1,6 @@
 {
-	"author": "Stephen Kruger",
 	"name": "fcc-learn-npm-package-json",
+	"author": "Stephen Kruger",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
